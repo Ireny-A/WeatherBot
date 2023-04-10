@@ -1,4 +1,4 @@
-# выводит погоду для любого введенного города
+# This bot shows weather in any city
 
 import json
 import telebot
